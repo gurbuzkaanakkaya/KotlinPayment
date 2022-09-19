@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Payment/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.183" />
+        <entry key="..\:/Payment/app/src/main/res/drawable/add_button.xml" value="0.1955" />
+        <entry key="..\:/Payment/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.183" />
+        <entry key="..\:/Payment/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Payment/app/src/main/res/drawable/main_recycler_shape.xml" value="0.183" />
+        <entry key="..\:/Payment/app/src/main/res/layout/activity_add_payment.xml" value="0.24010416666666667" />
+        <entry key="..\:/Payment/app/src/main/res/layout/activity_add_payment2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Payment/app/src/main/res/layout/activity_add_payment_type.xml" value="0.25416666666666665" />
+        <entry key="..\:/Payment/app/src/main/res/layout/activity_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Payment/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Payment/app/src/main/res/layout/activity_new_payment_type.xml" value="0.25416666666666665" />
+        <entry key="..\:/Payment/app/src/main/res/layout/details_recycler.xml" value="0.2076923076923077" />
+        <entry key="..\:/Payment/app/src/main/res/layout/main_recycler.xml" value="0.253125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
